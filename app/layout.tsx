@@ -17,7 +17,10 @@ const spaceGrotesk = localFont({
 
 export const metadata: Metadata = {
   title: "DevFlow",
-  description: "A much  more in better alternative to Stack Overflow",
+  description: "A community-driven platform for asking and answering programming questions. Get help, share knowledge, and connect with fellow developers around the world. Explore topics in web development, data science, mobile app development and more.",
+    icons: {
+      icon: '/images/site-logo.svg'
+    }
 };
 
 export default function RootLayout({
