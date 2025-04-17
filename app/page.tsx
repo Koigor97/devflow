@@ -1,8 +1,8 @@
 const Home = () => {
   return (
-    <h1 className="h1-bold flex flex-col text-center mt-8 text-light-900">
+    <h1 className="h1-bold font-space-grotesk flex flex-col text-center mt-8 text-light-900">
       DevFlow
-      <span className="text-sm text-primary-500 font-normal">
+      <span className="paragraph-regular text-primary-500">
         {" "}
         - A much more in better alternative to Stack Overflow 🍍
       </span>
